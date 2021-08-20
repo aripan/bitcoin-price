@@ -1,0 +1,13 @@
+.date {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.btn {
+  width: 150px;
+  min-height: 20px;
+  color: black;
+  font-size: 18;
+  font-weight: 800;
+}
